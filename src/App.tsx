@@ -58,7 +58,7 @@ export default function App() {
   const [yMin, yMax] = data.meta.yearRange;
 
   return (
-    <div className="scanlines flex h-screen flex-col bg-[#050810] text-[#dbe6f5]">
+    <div className="scanlines flex h-[100dvh] flex-col bg-[#050810] text-[#dbe6f5]">
       {/* 头部 */}
       <header className="flex items-center justify-between border-b border-[#1a2540] bg-[#0c1220] px-4 py-2.5">
         <div className="flex items-center gap-3">
@@ -68,9 +68,9 @@ export default function App() {
           </div>
           <div>
             <h1 className="text-sm font-bold tracking-wide text-white md:text-base">
-              中国流行病监测台{" "}
+              FDPH{" "}
               <span className="font-mono text-[10px] font-normal text-[#5b7290]">
-                CHINA EPIDEMIC SURVEILLANCE
+                EPIDEMIC SURVEILLANCE
               </span>
             </h1>
             <p className="font-mono text-[9px] tracking-[0.28em] text-[#5b7290] uppercase">
@@ -89,7 +89,7 @@ export default function App() {
       {/* 主体三栏 */}
       <main className="flex min-h-0 flex-1 flex-col lg:flex-row">
         {/* 左：病种目录 */}
-        <aside className="order-2 flex max-h-56 w-full flex-col border-t border-[#1a2540] bg-[#0c1220] lg:order-1 lg:max-h-none lg:w-[260px] lg:border-r lg:border-t-0">
+        <aside className="order-2 flex min-h-0 w-full flex-col border-t border-[#1a2540] bg-[#0c1220] lg:order-1 lg:max-h-none lg:w-[260px] lg:border-r lg:border-t-0">
           <div className="border-b border-[#1a2540] px-4 py-3">
             <h2 className="font-mono text-[11px] tracking-[0.22em] text-[#22d3ee] uppercase">
               监测病种目录
@@ -140,8 +140,8 @@ export default function App() {
         </aside>
 
         {/* 中：地图 */}
-        <section className="relative order-1 min-h-[42vh] flex-1 lg:order-2 lg:min-h-0">
-          <ChinaMap geoJson={geo} events={data.events} year={year} onSelectEvent={setEvent} />
+        <section className="relative order-1 h-[46dvh] shrink-0 lg:order-2 lg:h-auto lg:min-h-0 lg:flex-1"
+        <ChinaMap geoJson={geo} events={data.events} year={year} onSelectEvent={setEvent} />
           <div className="pointer-events-none absolute left-3 top-3 rounded border border-[#1a2540] bg-[#050810cc] px-3 py-2 backdrop-blur">
             <div className="font-mono text-[9px] tracking-[0.22em] text-[#5b7290] uppercase">
               重大疫情事件分布
@@ -163,7 +163,7 @@ export default function App() {
         </section>
 
         {/* 右：Top10 */}
-        <aside className="order-3 flex max-h-[38vh] w-full flex-col border-t border-[#1a2540] bg-[#0c1220] lg:max-h-none lg:w-[340px] lg:border-l lg:border-t-0">
+        <aside className="order-3 flex min-h-0 w-full flex-col border-t border-[#1a2540] bg-[#0c1220] lg:max-h-none lg:w-[340px] lg:border-l lg:border-t-0">
           <Top10
             items={top}
             year={year}
