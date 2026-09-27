@@ -90,8 +90,11 @@ export default function DiseasePanel({ disease, year, onClose }: Props) {
     ? years.reduce((a, b) => (disease.series[String(a)] >= disease.series[String(b)] ? a : b))
     : null;
 
-  return (
-    <div className="absolute inset-x-0 bottom-0 z-30 mx-auto max-h-[46vh] w-full max-w-3xl overflow-hidden rounded-t-lg border border-b-0 border-[#1a2540] bg-[#0c1220f2] shadow-[0_-12px_40px_rgba(0,0,0,0.5)] backdrop-blur-md md:inset-y-0 md:left-auto md:right-3 md:my-auto md:max-h-none md:h-[calc(100%-24px)] md:w-[400px] md:rounded-md md:border-b">
+    return (
+    <>
+      {/* 移动端遮罩 */}
+      <div className="fixed inset-0 z-40 bg-black/50 md:hidden" onClick={onClose} />
+      <div className="fixed inset-x-0 bottom-0 z-50 mx-auto flex max-h-[72dvh] w-full max-w-3xl flex-col overflow-hidden rounded-t-2xl border border-b-0 border-[#1a2540] bg-[#0c1220] shadow-[0_-12px_40px_rgba(0,0,0,0.5)] md:absolute md:inset-y-3 md:left-auto md:right-3 md:z-30 md:h-auto md:max-h-none md:w-[400px] md:rounded-md md:border-b">
       <div className="flex items-start justify-between border-b border-[#1a2540] px-4 py-3">
         <div>
           <div className="font-mono text-[10px] tracking-[0.22em] text-[#22d3ee] uppercase">
@@ -111,7 +114,7 @@ export default function DiseasePanel({ disease, year, onClose }: Props) {
           ✕
         </button>
       </div>
-      <div className="h-full space-y-3 overflow-y-auto px-4 py-3 pb-8">
+      <div className="min-h-0 space-y-3 overflow-y-auto px-4 py-3 pb-8">
         <div className="grid grid-cols-3 gap-2 font-mono">
           <div className="rounded border border-[#1a2540] bg-[#050810] p-2">
             <div className="text-[9px] tracking-widest text-[#5b7290] uppercase">{year} 年</div>
