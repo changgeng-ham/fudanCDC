@@ -1,0 +1,2986 @@
+{
+ "meta": {
+  "source": "WHO Global Health Observatory (GHO), https://www.who.int/data/gho",
+  "eventsSource": "WHO / 中国疾病预防控制中心 公开通报",
+  "generatedAt": "2026-09-27T02:49:09.966182Z",
+  "yearRange": [
+   1970,
+   2025
+  ],
+  "note": "1970–1973 年 WHO GHO 无中国疾病个案报告数据；1974 年起为 WHO 会员国官方报告数据。疟疾为 WHO 估计值；狂犬病为报告死亡数。各年 Top10 在 WHO 可获取的 12 个病种内排序。"
+ },
+ "diseases": [
+  {
+   "id": "measles",
+   "name": "麻疹",
+   "en": "Measles",
+   "kind": "reported_cases",
+   "unit": "报告病例（例）",
+   "desc": "由麻疹病毒引起的急性呼吸道传染病，传染性极强，曾是导致儿童死亡的主要传染病之一。随着计划免疫推广，中国报告病例数已大幅下降。",
+   "category": "疫苗可预防疾病",
+   "whoIndicator": "WHS3_62",
+   "series": {
+    "2025": 1770,
+    "1981": 1010755,
+    "1996": 68404,
+    "1977": 2640161,
+    "1998": 53030,
+    "1997": 79621,
+    "2012": 6183,
+    "1999": 61840,
+    "2007": 109023,
+    "1989": 85049,
+    "1983": 781475,
+    "2022": 552,
+    "2010": 38159,
+    "2015": 42361,
+    "2023": 621,
+    "2018": 3940,
+    "1975": 2553084,
+    "1988": 96994,
+    "1979": 1717031,
+    "1993": 117851,
+    "2008": 131441,
+    "2000": 71093,
+    "1992": 140048,
+    "2017": 5941,
+    "2003": 71879,
+    "1994": 76204,
+    "2020": 867,
+    "2024": 1272,
+    "1990": 85705,
+    "2014": 52628,
+    "2011": 9943,
+    "1987": 104925,
+    "2001": 88962,
+    "2016": 24820,
+    "2005": 124219,
+    "2021": 554,
+    "2009": 52461,
+    "1978": 2377776,
+    "1991": 123428,
+    "2004": 70549,
+    "1982": 892870,
+    "1995": 53232,
+    "1986": 198738,
+    "1980": 1122285,
+    "1984": 619709,
+    "2002": 58341,
+    "1985": 418159,
+    "2013": 26883,
+    "1976": 2558995,
+    "2006": 99602,
+    "2019": 2974,
+    "1974": 3276531
+   }
+  },
+  {
+   "id": "pertussis",
+   "name": "百日咳",
+   "en": "Pertussis",
+   "kind": "reported_cases",
+   "unit": "报告病例（例）",
+   "desc": "由百日咳鲍特菌引起的急性呼吸道传染病，以阵发性痉挛性咳嗽为特征，婴幼儿重症风险高。",
+   "category": "疫苗可预防疾病",
+   "whoIndicator": "WHS3_43",
+   "series": {
+    "2025": 33364,
+    "1975": 1814134,
+    "1979": 736155,
+    "2010": 1764,
+    "2024": 476690,
+    "1986": 83979,
+    "2021": 9611,
+    "2022": 38295,
+    "2015": 6658,
+    "2001": 6407,
+    "1976": 1339710,
+    "1982": 422280,
+    "2013": 1712,
+    "1977": 1454477,
+    "1989": 26985,
+    "1999": 5974,
+    "2023": 41124,
+    "1981": 510601,
+    "1995": 5482,
+    "2008": 2387,
+    "1974": 1694350,
+    "2012": 2183,
+    "2004": 4705,
+    "2005": 3844,
+    "2009": 1612,
+    "1990": 20015,
+    "2019": 30027,
+    "2014": 3408,
+    "1983": 331419,
+    "1997": 8678,
+    "1987": 59543,
+    "2016": 5584,
+    "1991": 10679,
+    "1994": 7199,
+    "2002": 6293,
+    "1992": 11182,
+    "1980": 613648,
+    "2020": 4475,
+    "2018": 22057,
+    "2000": 5561,
+    "1978": 1202922,
+    "1984": 215965,
+    "2003": 858,
+    "1998": 7134,
+    "1985": 147298,
+    "1993": 9190,
+    "2011": 2517,
+    "2006": 2595,
+    "1988": 32937,
+    "2017": 10390
+   }
+  },
+  {
+   "id": "diphtheria",
+   "name": "白喉",
+   "en": "Diphtheria",
+   "kind": "reported_cases",
+   "unit": "报告病例（例）",
+   "desc": "由白喉棒状杆菌引起的急性呼吸道传染病，可致呼吸道伪膜和心肌炎。中国在普及百白破疫苗后已接近消除。",
+   "category": "疫苗可预防疾病",
+   "whoIndicator": "WHS3_41",
+   "series": {
+    "2025": 0,
+    "1992": 146,
+    "2021": 0,
+    "1993": 124,
+    "1975": 38246,
+    "2008": 0,
+    "2017": 0,
+    "1982": 6502,
+    "1974": 25859,
+    "2018": 0,
+    "1981": 8481,
+    "1979": 16921,
+    "1986": 787,
+    "1985": 1423,
+    "2004": 2,
+    "2006": 1,
+    "2013": 0,
+    "2022": 0,
+    "2003": 9,
+    "2001": 12,
+    "1998": 40,
+    "1988": 267,
+    "1994": 119,
+    "1980": 9767,
+    "2015": 0,
+    "2002": 11,
+    "1987": 427,
+    "2005": 0,
+    "1995": 85,
+    "2024": 0,
+    "2007": 0,
+    "1976": 23968,
+    "1978": 20084,
+    "2011": 0,
+    "1983": 7227,
+    "1977": 30721,
+    "1984": 3418,
+    "1997": 35,
+    "2020": 2,
+    "1999": 16,
+    "1989": 343,
+    "2016": 0,
+    "1990": 421,
+    "2012": 0,
+    "2019": 0,
+    "2010": 0,
+    "1991": 231,
+    "2009": 0,
+    "2000": 19
+   }
+  },
+  {
+   "id": "tetanus",
+   "name": "破伤风（合计）",
+   "en": "Tetanus (total)",
+   "kind": "reported_cases",
+   "unit": "报告病例（例）",
+   "desc": "由破伤风梭菌毒素引起的急性感染性疾病，以肌肉强直和痉挛为特征，病死率高。",
+   "category": "疫苗可预防疾病",
+   "whoIndicator": "WHS3_46",
+   "series": {
+    "2025": 10,
+    "2005": 2761,
+    "2024": 18,
+    "2022": 18,
+    "2007": 2112,
+    "2021": 23,
+    "2020": 32,
+    "2014": 426,
+    "2008": 1786,
+    "2013": 492
+   }
+  },
+  {
+   "id": "ntetanus",
+   "name": "新生儿破伤风",
+   "en": "Neonatal tetanus",
+   "kind": "reported_cases",
+   "unit": "报告病例（例）",
+   "desc": "新生儿经脐带感染破伤风梭菌所致。中国于 2012 年经 WHO 认证消除新生儿破伤风。",
+   "category": "疫苗可预防疾病",
+   "whoIndicator": "WHS3_56",
+   "series": {
+    "2014": 426,
+    "2025": 10,
+    "1999": 3616,
+    "1996": 2543,
+    "2009": 1412,
+    "2007": 2112,
+    "2018": 83,
+    "2005": 2761,
+    "2010": 1057,
+    "2003": 2245,
+    "2002": 2136,
+    "2024": 18,
+    "2021": 23,
+    "2017": 93,
+    "1997": 3962,
+    "2008": 1786,
+    "2004": 2954,
+    "2020": 32,
+    "2019": 73,
+    "1998": 3777,
+    "2013": 492,
+    "2006": 2519,
+    "2022": 18,
+    "2015": 306,
+    "2001": 2608,
+    "2000": 3230,
+    "2012": 674,
+    "2016": 177
+   }
+  },
+  {
+   "id": "polio",
+   "name": "脊髓灰质炎",
+   "en": "Poliomyelitis",
+   "kind": "reported_cases",
+   "unit": "报告病例（例）",
+   "desc": "由脊髓灰质炎病毒引起的急性传染病，可致弛缓性麻痹。中国 2000 年经 WHO 认证为无脊灰状态。",
+   "category": "疫苗可预防疾病",
+   "whoIndicator": "WHS3_49",
+   "series": {
+    "1991": 1926,
+    "1997": 0,
+    "2001": 0,
+    "1984": 1626,
+    "2004": 2,
+    "2014": 0,
+    "1988": 667,
+    "2000": 0,
+    "1990": 5065,
+    "2007": 0,
+    "1996": 3,
+    "2015": 0,
+    "1981": 9625,
+    "2017": 0,
+    "1992": 1191,
+    "2006": 0,
+    "1994": 261,
+    "1998": 0,
+    "2011": 21,
+    "2016": 0,
+    "1995": 165,
+    "1985": 1537,
+    "1980": 7442,
+    "2002": 0,
+    "2005": 0,
+    "2010": 0,
+    "1986": 1844,
+    "2003": 0,
+    "2008": 0,
+    "2018": 0,
+    "1999": 1,
+    "1982": 7741,
+    "1983": 3296,
+    "2009": 0,
+    "2012": 2,
+    "2013": 0,
+    "1989": 4623,
+    "1987": 969,
+    "1993": 653
+   }
+  },
+  {
+   "id": "mumps",
+   "name": "流行性腮腺炎",
+   "en": "Mumps",
+   "kind": "reported_cases",
+   "unit": "报告病例（例）",
+   "desc": "由腮腺炎病毒引起的急性呼吸道传染病，好发于儿童和青少年，可并发脑膜炎、睾丸炎。",
+   "category": "疫苗可预防疾病",
+   "whoIndicator": "WHS3_53",
+   "series": {
+    "2025": 83413,
+    "2012": 479518,
+    "2011": 454385,
+    "2017": 252740,
+    "2009": 299329,
+    "2013": 327759,
+    "2015": 182833,
+    "2022": 104016,
+    "2007": 252701,
+    "2024": 92060,
+    "2005": 291135,
+    "2006": 273242,
+    "2010": 298932,
+    "2004": 226619,
+    "2016": 175001,
+    "2020": 129120,
+    "2021": 119955,
+    "2018": 259071,
+    "2014": 187500,
+    "2008": 310826
+   }
+  },
+  {
+   "id": "rubella",
+   "name": "风疹",
+   "en": "Rubella",
+   "kind": "reported_cases",
+   "unit": "报告病例（例）",
+   "desc": "由风疹病毒引起的急性呼吸道传染病，孕妇早期感染可致胎儿先天性风疹综合征。",
+   "category": "疫苗可预防疾病",
+   "whoIndicator": "WHS3_57",
+   "series": {
+    "2025": 367,
+    "2022": 784,
+    "2013": 17580,
+    "2014": 11793,
+    "2021": 845,
+    "2010": 43117,
+    "2023": 556,
+    "2009": 69860,
+    "2008": 120354,
+    "2011": 65549,
+    "2024": 427,
+    "2017": 1605,
+    "2006": 37137,
+    "2007": 74746,
+    "2018": 3930,
+    "2019": 32539,
+    "2005": 25446,
+    "2016": 4535,
+    "2015": 8133,
+    "2020": 2202,
+    "2004": 24015,
+    "2012": 40156
+   }
+  },
+  {
+   "id": "crs",
+   "name": "先天性风疹综合征",
+   "en": "Congenital Rubella Syndrome",
+   "kind": "reported_cases",
+   "unit": "报告病例（例）",
+   "desc": "孕妇妊娠早期感染风疹病毒导致胎儿出现先天性心脏病、白内障、耳聋等畸形。",
+   "category": "疫苗可预防疾病",
+   "whoIndicator": "WHS3_55",
+   "series": {}
+  },
+  {
+   "id": "je",
+   "name": "流行性乙型脑炎",
+   "en": "Japanese encephalitis",
+   "kind": "reported_cases",
+   "unit": "报告病例（例）",
+   "desc": "由乙脑病毒经蚊虫传播的中枢神经系统急性传染病，病死率高、后遗症重，中国为历史高发区。",
+   "category": "虫媒传染病",
+   "whoIndicator": "WHS3_42",
+   "series": {
+    "2025": 127,
+    "2023": 187,
+    "2006": 7647,
+    "2016": 1130,
+    "2019": 369,
+    "2022": 137,
+    "2009": 3913,
+    "2008": 2975,
+    "2013": 2178,
+    "2021": 191,
+    "2007": 4330,
+    "2020": 260,
+    "2012": 1763,
+    "2010": 2541,
+    "2024": 122,
+    "2017": 1147,
+    "2014": 858,
+    "2018": 1800,
+    "2015": 624,
+    "2011": 1625
+   }
+  },
+  {
+   "id": "malaria",
+   "name": "疟疾（估计病例）",
+   "en": "Malaria (estimated)",
+   "kind": "estimated_cases",
+   "unit": "估计病例（例）",
+   "desc": "由疟原虫经按蚊传播的寄生虫病。中国从 20 世纪年发病数千万例降至 2021 年获 WHO 消除疟疾认证。该指标为 WHO 估计值。",
+   "category": "虫媒传染病",
+   "whoIndicator": "MALARIA_EST_CASES",
+   "series": {
+    "2000": 8025,
+    "2014": 53,
+    "2013": 83,
+    "2020": 0,
+    "2001": 21237,
+    "2002": 25520,
+    "2006": 35383,
+    "2017": 0,
+    "2016": 1,
+    "2012": 244,
+    "2018": 0,
+    "2010": 4990,
+    "2009": 9287,
+    "2024": 0,
+    "2021": 0,
+    "2022": 0,
+    "2008": 16650,
+    "2005": 21936,
+    "2015": 39,
+    "2019": 0,
+    "2004": 27197,
+    "2003": 28491,
+    "2011": 1308,
+    "2007": 29304,
+    "2023": 0
+   }
+  },
+  {
+   "id": "rabies",
+   "name": "狂犬病（报告死亡）",
+   "en": "Rabies (reported deaths)",
+   "kind": "reported_deaths",
+   "unit": "报告死亡（人）",
+   "desc": "由狂犬病毒引起的人兽共患传染病，发病后病死率几乎 100%。中国长期为全球狂犬病死亡人数较多的国家之一。",
+   "category": "人兽共患病",
+   "whoIndicator": "NTD_RAB2",
+   "series": {
+    "2011": 1879,
+    "2016": 644,
+    "2022": 134,
+    "2017": 516,
+    "2013": 1128,
+    "2019": 290,
+    "2015": 801,
+    "2014": 854,
+    "2023": 122,
+    "2012": 1361,
+    "2020": 202,
+    "2021": 157,
+    "2010": 2014,
+    "2018": 422
+   }
+  }
+ ],
+ "topByYear": {
+  "1974": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 3276531,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 1694350,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 25859,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1975": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 2553084,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 1814134,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 38246,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1976": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 2558995,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 1339710,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 23968,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1977": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 2640161,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 1454477,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 30721,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1978": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 2377776,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 1202922,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 20084,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1979": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 1717031,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 736155,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 16921,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1980": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 1122285,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 613648,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 9767,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 7442,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1981": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 1010755,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 510601,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 9625,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 8481,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1982": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 892870,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 422280,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 7741,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 6502,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1983": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 781475,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 331419,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 7227,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 3296,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1984": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 619709,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 215965,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 3418,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 1626,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1985": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 418159,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 147298,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 1537,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 1423,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1986": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 198738,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 83979,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 1844,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 787,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1987": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 104925,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 59543,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 969,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 427,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1988": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 96994,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 32937,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 667,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 267,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1989": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 85049,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 26985,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 4623,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 343,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1990": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 85705,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 20015,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 5065,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 421,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1991": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 123428,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 10679,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 1926,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 231,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1992": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 140048,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 11182,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 1191,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 146,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1993": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 117851,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 9190,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 653,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 124,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1994": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 76204,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 7199,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 261,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 119,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1995": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 53232,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 5482,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 165,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 85,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1996": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 68404,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 2543,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 3,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1997": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 79621,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 8678,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 3962,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 35,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1998": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 53030,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 7134,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 3777,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 40,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "1999": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 61840,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 5974,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 3616,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 16,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 1,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "2000": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 71093,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 8025,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 5561,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 3230,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 19,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "2001": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 88962,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 21237,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 6407,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 2608,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 12,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "2002": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 58341,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 25520,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 6293,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 2136,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 11,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "2003": [
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 71879,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 28491,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 2245,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 858,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 9,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "2004": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 226619,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 70549,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 27197,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 24015,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 4705,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 2954,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 2,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 2,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "2005": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 291135,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 124219,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 25446,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 21936,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 3844,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "tetanus",
+    "name": "破伤风（合计）",
+    "value": 2761,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 2761,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "2006": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 273242,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 99602,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 37137,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 35383,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 7647,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 2595,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 2519,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 1,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "2007": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 252701,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 109023,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 74746,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 29304,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 4330,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "tetanus",
+    "name": "破伤风（合计）",
+    "value": 2112,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 2112,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "2008": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 310826,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 131441,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 120354,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 16650,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 2975,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 2387,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "tetanus",
+    "name": "破伤风（合计）",
+    "value": 1786,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 1786,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "2009": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 299329,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 69860,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 52461,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 9287,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 3913,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 1612,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 1412,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "2010": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 298932,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 43117,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 38159,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 4990,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 2541,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rabies",
+    "name": "狂犬病（报告死亡）",
+    "value": 2014,
+    "kind": "reported_deaths",
+    "unit": "报告死亡（人）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 1764,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 1057,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "2011": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 454385,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 65549,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 9943,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 2517,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rabies",
+    "name": "狂犬病（报告死亡）",
+    "value": 1879,
+    "kind": "reported_deaths",
+    "unit": "报告死亡（人）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 1625,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 1308,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 21,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "2012": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 479518,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 40156,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 6183,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 2183,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 1763,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rabies",
+    "name": "狂犬病（报告死亡）",
+    "value": 1361,
+    "kind": "reported_deaths",
+    "unit": "报告死亡（人）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 674,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 244,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 2,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "2013": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 327759,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 26883,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 17580,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 2178,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 1712,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rabies",
+    "name": "狂犬病（报告死亡）",
+    "value": 1128,
+    "kind": "reported_deaths",
+    "unit": "报告死亡（人）"
+   },
+   {
+    "diseaseId": "tetanus",
+    "name": "破伤风（合计）",
+    "value": 492,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 492,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 83,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "2014": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 187500,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 52628,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 11793,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 3408,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 858,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rabies",
+    "name": "狂犬病（报告死亡）",
+    "value": 854,
+    "kind": "reported_deaths",
+    "unit": "报告死亡（人）"
+   },
+   {
+    "diseaseId": "tetanus",
+    "name": "破伤风（合计）",
+    "value": 426,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 426,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 53,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "2015": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 182833,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 42361,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 8133,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 6658,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rabies",
+    "name": "狂犬病（报告死亡）",
+    "value": 801,
+    "kind": "reported_deaths",
+    "unit": "报告死亡（人）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 624,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 306,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 39,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "2016": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 175001,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 24820,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 5584,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 4535,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 1130,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rabies",
+    "name": "狂犬病（报告死亡）",
+    "value": 644,
+    "kind": "reported_deaths",
+    "unit": "报告死亡（人）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 177,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 1,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ],
+  "2017": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 252740,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 10390,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 5941,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 1605,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 1147,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rabies",
+    "name": "狂犬病（报告死亡）",
+    "value": 516,
+    "kind": "reported_deaths",
+    "unit": "报告死亡（人）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 93,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 0,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   }
+  ],
+  "2018": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 259071,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 22057,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 3940,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 3930,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 1800,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rabies",
+    "name": "狂犬病（报告死亡）",
+    "value": 422,
+    "kind": "reported_deaths",
+    "unit": "报告死亡（人）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 83,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "polio",
+    "name": "脊髓灰质炎",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 0,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   }
+  ],
+  "2019": [
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 32539,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 30027,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 2974,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 369,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rabies",
+    "name": "狂犬病（报告死亡）",
+    "value": 290,
+    "kind": "reported_deaths",
+    "unit": "报告死亡（人）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 73,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 0,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   }
+  ],
+  "2020": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 129120,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 4475,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 2202,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 867,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 260,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rabies",
+    "name": "狂犬病（报告死亡）",
+    "value": 202,
+    "kind": "reported_deaths",
+    "unit": "报告死亡（人）"
+   },
+   {
+    "diseaseId": "tetanus",
+    "name": "破伤风（合计）",
+    "value": 32,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 32,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 2,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 0,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   }
+  ],
+  "2021": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 119955,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 9611,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 845,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 554,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 191,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rabies",
+    "name": "狂犬病（报告死亡）",
+    "value": 157,
+    "kind": "reported_deaths",
+    "unit": "报告死亡（人）"
+   },
+   {
+    "diseaseId": "tetanus",
+    "name": "破伤风（合计）",
+    "value": 23,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 23,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 0,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   }
+  ],
+  "2022": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 104016,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 38295,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 784,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 552,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 137,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rabies",
+    "name": "狂犬病（报告死亡）",
+    "value": 134,
+    "kind": "reported_deaths",
+    "unit": "报告死亡（人）"
+   },
+   {
+    "diseaseId": "tetanus",
+    "name": "破伤风（合计）",
+    "value": 18,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 18,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 0,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   }
+  ],
+  "2023": [
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 41124,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 621,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 556,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 187,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rabies",
+    "name": "狂犬病（报告死亡）",
+    "value": 122,
+    "kind": "reported_deaths",
+    "unit": "报告死亡（人）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 0,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   }
+  ],
+  "2024": [
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 476690,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 92060,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 1272,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 427,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 122,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "tetanus",
+    "name": "破伤风（合计）",
+    "value": 18,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 18,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "malaria",
+    "name": "疟疾（估计病例）",
+    "value": 0,
+    "kind": "estimated_cases",
+    "unit": "估计病例（例）"
+   }
+  ],
+  "2025": [
+   {
+    "diseaseId": "mumps",
+    "name": "流行性腮腺炎",
+    "value": 83413,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "pertussis",
+    "name": "百日咳",
+    "value": 33364,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "measles",
+    "name": "麻疹",
+    "value": 1770,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "rubella",
+    "name": "风疹",
+    "value": 367,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "je",
+    "name": "流行性乙型脑炎",
+    "value": 127,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "tetanus",
+    "name": "破伤风（合计）",
+    "value": 10,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "ntetanus",
+    "name": "新生儿破伤风",
+    "value": 10,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   },
+   {
+    "diseaseId": "diphtheria",
+    "name": "白喉",
+    "value": 0,
+    "kind": "reported_cases",
+    "unit": "报告病例（例）"
+   }
+  ]
+ },
+ "events": [
+  {
+   "year": 1988,
+   "name": "上海甲型肝炎大流行",
+   "location": "上海市",
+   "lng": 121.47,
+   "lat": 31.23,
+   "cases": 310746,
+   "disease": "甲型肝炎",
+   "detail": "因食用受污染的毛蚶引发，1988 年 1–3 月报告约 31 万例，是甲肝史上最大规模暴发之一。",
+   "source": "中国 CDC / 流行病学文献",
+   "sourceUrl": "https://www.chinacdc.cn/"
+  },
+  {
+   "year": 2003,
+   "name": "SARS（传染性非典型肺炎）",
+   "location": "广东省（首发）→ 北京市等",
+   "lng": 113.26,
+   "lat": 23.13,
+   "cases": 5327,
+   "disease": "SARS",
+   "detail": "2002 年 11 月首发于广东，2003 年扩散至全国。中国大陆报告 5327 例、死亡 349 例（WHO 统计）。",
+   "source": "WHO",
+   "sourceUrl": "https://www.who.int/emergencies/disease-outbreak-news"
+  },
+  {
+   "year": 2005,
+   "name": "四川人感染猪链球菌病",
+   "location": "四川省资阳市等地",
+   "lng": 104.65,
+   "lat": 30.12,
+   "cases": 204,
+   "disease": "猪链球菌病",
+   "detail": "2005 年 6–8 月四川报告人感染猪链球菌病 204 例、死亡 38 例，为全球最大规模暴发。",
+   "source": "WHO",
+   "sourceUrl": "https://www.who.int/emergencies/disease-outbreak-news"
+  },
+  {
+   "year": 2009,
+   "name": "甲型 H1N1 流感大流行",
+   "location": "全国（输入性病例扩散）",
+   "lng": 116.4,
+   "lat": 39.9,
+   "cases": 121843,
+   "disease": "甲型H1N1流感",
+   "detail": "2009 年全球大流行，中国内地累计报告确诊病例超过 12 万例。",
+   "source": "中国 CDC / WHO",
+   "sourceUrl": "https://www.chinacdc.cn/"
+  },
+  {
+   "year": 2013,
+   "name": "人感染 H7N9 禽流感",
+   "location": "上海、浙江、江苏（长三角）",
+   "lng": 120.15,
+   "lat": 30.27,
+   "cases": 134,
+   "disease": "H7N9禽流感",
+   "detail": "2013 年 3 月全球首次报告人感染 H7N9，当年报告 134 例、死亡 45 例，病死率高。",
+   "source": "WHO",
+   "sourceUrl": "https://www.who.int/emergencies/disease-outbreak-news"
+  },
+  {
+   "year": 2014,
+   "name": "广东登革热大流行",
+   "location": "广东省广州市等",
+   "lng": 113.26,
+   "lat": 23.13,
+   "cases": 45236,
+   "disease": "登革热",
+   "detail": "2014 年广东报告登革热病例超 4.5 万例，为 1990 年以来最大规模本地流行。",
+   "source": "中国 CDC 周报",
+   "sourceUrl": "https://weekly.chinacdc.cn/"
+  },
+  {
+   "year": 2019,
+   "name": "内蒙古鼠疫散发病例",
+   "location": "内蒙古自治区锡林郭勒盟",
+   "lng": 116.08,
+   "lat": 43.94,
+   "cases": 5,
+   "disease": "鼠疫",
+   "detail": "2019 年内蒙古报告腺鼠疫及肺鼠疫散发病例，引发全国鼠疫防控关注。",
+   "source": "中国 CDC",
+   "sourceUrl": "https://www.chinacdc.cn/"
+  },
+  {
+   "year": 2020,
+   "name": "COVID-19 疫情",
+   "location": "湖北省武汉市（首发报告地）",
+   "lng": 114.3,
+   "lat": 30.59,
+   "cases": 86971,
+   "disease": "COVID-19",
+   "detail": "2019 年 12 月武汉报告不明原因肺炎。2020 年中国大陆报告确诊病例 86971 例、死亡 4634 例（WHO）。",
+   "source": "WHO",
+   "sourceUrl": "https://www.who.int/emergencies/disease-outbreak-news"
+  }
+ ]
+}
