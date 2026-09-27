@@ -18,16 +18,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+
+      # ① 云端生成 WHO 疾病数据
+      - name: 拉取 WHO GHO 数据
+        run: |
+          pip install requests
+          python3 scripts/fetch_data.py
+
+      # ② 云端下载中国地图数据（含备用源）
+      - name: 下载中国地图 GeoJSON
+        run: |
+          mkdir -p public
+          curl -fL --retry 3 "https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json" -o public/china.json \
+          || curl -fL --retry 3 "https://geojson.cn/api/china/100000_full.json" -o public/china.json
+          ls -lh public/
+
       - run: npm install
-      - name: 拉取最新 WHO GHO 数据（失败则使用仓库内已生成的 data.json）
-        run: pip install requests && python3 scripts/fetch_data.py || echo "use committed data.json"
       - run: npm run build
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
