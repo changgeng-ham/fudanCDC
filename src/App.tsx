@@ -87,9 +87,9 @@ export default function App() {
       <Ticker events={data.events} />
 
       {/* 主体三栏 */}
-      <main className="flex min-h-0 flex-1 flex-col lg:flex-row">
-        {/* 左：病种目录 */}
-        <aside className="order-2 flex min-h-0 w-full flex-col border-t border-[#1a2540] bg-[#0c1220] lg:order-1 lg:max-h-none lg:w-[260px] lg:border-r lg:border-t-0">
+      <main className="flex min-h-0 flex-1 flex-col overflow-y-auto lg:flex-row lg:overflow-hidden">
+      {/* 左：病种目录 */}
+        <aside className="order-2 flex w-full flex-none flex-col border-t border-[#1a2540] bg-[#0c1220] lg:order-1 lg:min-h-0 lg:w-[280px] lg:border-r lg:border-t-0">
           <div className="border-b border-[#1a2540] px-4 py-3">
             <h2 className="font-mono text-[11px] tracking-[0.22em] text-[#22d3ee] uppercase">
               监测病种目录
@@ -163,7 +163,7 @@ export default function App() {
         </section>
 
         {/* 右：Top10 */}
-        <aside className="order-3 flex min-h-0 w-full flex-col border-t border-[#1a2540] bg-[#0c1220] lg:max-h-none lg:w-[340px] lg:border-l lg:border-t-0">
+        <aside className="order-3 flex w-full flex-none flex-col border-t border-[#1a2540] bg-[#0c1220] lg:min-h-0 lg:w-[380px] lg:border-l lg:border-t-0">
           <Top10
             items={top}
             year={year}
