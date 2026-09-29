@@ -54,7 +54,7 @@ export default function App() {
           </div>
           <div>
             <h1 className="text-sm font-bold tracking-wide text-white md:text-base">
-              中国流行病监测台 <span className="font-mono text-[10px] font-normal text-[#5b7290]">CHINA EPIDEMIC SURVEILLANCE</span>
+              复旦公卫 <span className="font-mono text-[10px] font-normal text-[#5b7290]">CHINA EPIDEMIC SURVEILLANCE</span>
             </h1>
             <p className="font-mono text-[9px] tracking-[0.28em] text-[#5b7290] uppercase">1970–{yMax} · WHO Global Health Observatory</p>
           </div>
